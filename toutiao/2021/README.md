@@ -8,4 +8,4 @@
 | 20210104 |  |  ||
 
 ##### 公众号:机器学习社区，添加方式：1:扫描下方二维码，2:微信搜索公众号
-<img src="/2021/pic/WechatIMG14.jpeg" width="25%">
+<img src="/2021/pic/WechatIMG14.jpeg" width="60%">
