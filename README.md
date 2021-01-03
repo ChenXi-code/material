@@ -5,7 +5,7 @@
 | 20210103     |  机器学习 :基于概率论的观点 |[链接](https://github.com/probml/pml-book/releases/download/2020-12-28/pml1-2020-12-28.pdf) |ML|
 
 ##### 公众号:机器学习社区
-![机器学习社区](mt/WechatIMG14.jpeg =50x50)
+![机器学习社区](mt/WechatIMG14.jpeg =90x90)
 
 
 
