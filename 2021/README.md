@@ -7,3 +7,4 @@
 
 ##### 公众号:机器学习社区
 ![机器学习社区](/2021/pic/WechatIMG14.jpeg =90x90)
+<img src="/2021/pic/WechatIMG14.jpeg" width="50%">
