@@ -4,7 +4,7 @@
 
 | 发布日期 |名称|方式1:公众号后台回复关键字 |方式2:链接|
 | :---------:|:---:|:---:|:---:|
-| 20210103 |  机器学习 :基于概率论的观点|<font color=#00ffff> ML </font>  |[链接](https://github.com/probml/pml-book/releases/download/2020-12-28/pml1-2020-12-28.pdf)|
+| 20210103 |  机器学习 :基于概率论的观点|<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table> |[链接](https://github.com/probml/pml-book/releases/download/2020-12-28/pml1-2020-12-28.pdf)|
 
 ##### 公众号:机器学习社区
 <img src="/2021/pic/WechatIMG14.jpeg" width="25%">
