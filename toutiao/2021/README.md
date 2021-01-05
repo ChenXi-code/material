@@ -24,4 +24,4 @@ https://github.com/ChenXi-code/material/tree/main/toutiao/2021
 
 📱手机用户，如需本文地址，复制上述链接，保存即可！
 
-💻PC用户，点击**右上角Star⭐**，即可收藏！
+💻PC用户，点击**右上角Star⭐**，就可以收藏了！
