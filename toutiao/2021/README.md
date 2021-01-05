@@ -20,6 +20,8 @@
 
 ![机器学习社区](/2021/pic/WechatIMG14.jpeg)
 
-本文地址：https://github.com/ChenXi-code/material/tree/main/toutiao/2021
+#### 本文链接地址
 
-可以保存地址，方便后续资料下载！
+https://github.com/ChenXi-code/material/tree/main/toutiao/2021
+
+对于手机用户，如需要本文地址，可以复制保存！
