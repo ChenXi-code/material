@@ -10,6 +10,7 @@
 | 0103 |机器学习 :基于概率论的观点|回复关键字：**ML** |[书籍链接](https://github.com/probml/pml-book/releases/download/2020-12-28/pml1-2020-12-28.pdf)|
 | 0105 | 机器学习画图模板 |回复关键字：**画图模板**  ||
 | 0105 | 日漫 | 回复关键字：**日漫**  ||
+| 0106 | 计算机科学学习计划 |  |[地址链接](https://github.com/jwasham/coding-interview-university)|
 
 #### 公众号:机器学习社区，添加方式有两种：
 
