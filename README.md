@@ -24,7 +24,7 @@
 ![机器学习社区](/2021/pic/WechatIMG14.jpeg)
 
 
-<img src="/2021/pic/WechatIMG14.jpeg" width="100px">
+<img src="/2021/pic/WechatIMG14.jpeg" width="200px">
 
 #### 本文链接地址
 
